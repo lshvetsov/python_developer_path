@@ -5,3 +5,6 @@ Repo containing projects of the Python track of JetBrains Academy
    - command line arguments: path to a file or a folder with python scripts
    - output: list of exceptions based the pre-defined set of rules printed to the console
    - tests: static_analyzer/test_files
+3. EasyRider JSON Validator (https://hyperskill.org/projects/128) - simple JSON validator for given set of rules
+   - output: list of exceptions and stations by type 
+   - tests: json_validator/test_files
